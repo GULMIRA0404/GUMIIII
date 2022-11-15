@@ -16,14 +16,14 @@ def multiply(x, y):
 
 # This function divides two numbers
 def divide(x, y):
-    return x / y
+    return x / H
 
 
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
-print("4.Divide")
+print("4.DivJGJHG")
 
 while True:
     # take input from the user
@@ -35,7 +35,7 @@ while True:
         num2 = float(input("Enter second number: "))
 
         if choice == '1':
-            print(num1, "+", num2, "=", add(num1, num2));
+            print(num1, "+", num2, "=", add(num1, num200000
 
         elif choice == '2':
             print(num1, "-", num2, "=", subtract(num1, num2)),
